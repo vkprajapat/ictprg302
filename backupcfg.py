@@ -11,6 +11,6 @@ smtp = {"sender": "virendra1106pra@gmail.com",    # elasticemail.com verified se
         "server": "smtp.elasticemail.com",      # elasticemail.com SMTP server
         "port": 2525,                           # elasticemail.com SMTP port
         "user": "virendra1106pra@gmail.com",      # elasticemail.com user
-        "password": "6A0AF872BE817162FC334DF404432C1E5B75"}     # elasticemail.com password
+        "password": "6A0AF8FC334DF404432C1E5B75"}     # elasticemail.com password
         #message = "There was an error during the backup process."
         #sendEmail(message)
